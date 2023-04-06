@@ -20,7 +20,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## SCREENSHOT WITH LINK TO PAGE PREVIEW 
-[![Screenshot](../Msaverino-Work-Day--Scheduler/Assets/images/day%20planner-screenshot.PNG)](https://marcosaverino.github.io/Msaverino-Work-Day--Scheduler)
+[![Screenshot](./Assets/images/day%20planner-screenshot.PNG)](https://marcosaverino.github.io/Msaverino-Work-Day--Scheduler)
 
 ## LINKS 
 PAGE PREVIEW: 
